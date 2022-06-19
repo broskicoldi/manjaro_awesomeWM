@@ -1,4 +1,4 @@
-# Manjaro-LXQTkwin-Minimal
+# Manjaro-AwesomeWM-Minimal
 
 i do not develope the iso, i simply did generate using the manjaro building custom iso video
 
