@@ -12,7 +12,7 @@ all credits to Manjaro team and AwesomeWm team
 
 
 ```bash
-download the iso
+download the iso zip and the z01 file make sure they are on a same directory then extract the zip file 
 
 flashing the iso
 Windows=use Rufus,Ventoy or BalenaEtcher to flash the iso
